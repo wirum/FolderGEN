@@ -1,0 +1,10 @@
+# MeuProjeto
+
+- src/
+  - main.py
+  - utils/
+    - __init__.py
+- tests/
+  - test_main.py
+- README.md
+- requirements.txt

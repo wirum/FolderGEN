@@ -1,0 +1,20 @@
+# DjangoProject
+
+- config/
+  - __init__.py
+  - settings.py
+  - urls.py
+  - wsgi.py
+- apps/
+  - core/
+    - __init__.py
+    - models.py
+    - views.py
+    - urls.py
+- tests/
+  - test_core.py
+- manage.py
+- requirements.txt
+- README.md
+- .env.example
+- .gitignore

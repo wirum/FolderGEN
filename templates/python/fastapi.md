@@ -1,0 +1,20 @@
+# FastApiProject
+
+- app/
+  - __init__.py
+  - main.py
+  - api/
+    - __init__.py
+    - routes.py
+  - models/
+    - __init__.py
+    - schemas.py
+  - core/
+    - __init__.py
+    - config.py
+- tests/
+  - test_main.py
+- requirements.txt
+- README.md
+- .env.example
+- .gitignore

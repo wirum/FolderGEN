@@ -1,35 +1,30 @@
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
 
-# Virtual environments
+# Ambientes virtuais
 .venv/
 venv/
 env/
-ENV/
 
-# Build files
-build/
-dist/
-*.egg-info/
-
-# Test coverage
+# Testes e cobertura
+.pytest_cache/
 .coverage
-coverage.xml
 htmlcov/
 
-# IDEs
+# Cache local de licenças (FolderGEN)
+.cache/
+
+# Editores/IDEs
 .vscode/
 .idea/
+*.swp
 
-# OS files
+# Sistema
 .DS_Store
 Thumbs.db
-
-# FolderGEN temporary files
-temp/
-zips/
-
-# Logs
-*.log
