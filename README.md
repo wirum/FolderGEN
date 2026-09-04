@@ -8,7 +8,7 @@ geração automática de arquivos `LICENSE`.
 
 - **Sintaxe simples baseada em Markdown** para descrever qualquer estrutura
   de projeto.
-- **Biblioteca com 52 templates** organizados em 12 categorias, prontos
+- **Biblioteca com 53 templates** organizados em 12 categorias, prontos
   para uso.
 - **CLI interativa** com navegação por categoria, visualização da árvore
   antes de criar e resumo do que foi gerado.
@@ -25,7 +25,7 @@ geração automática de arquivos `LICENSE`.
 |---|---|
 | python | 14 |
 | javascript | 7 |
-| web | 6 |
+| web | 7 |
 | dotnet | 4 |
 | java | 4 |
 | typescript | 3 |
